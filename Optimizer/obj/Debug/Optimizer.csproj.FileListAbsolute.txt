@@ -1,0 +1,14 @@
+C:\Users\rohas\Videos\Хлам 2.0\шлак.универ\Проги\Разное\Optimizer\Optimizer\bin\Debug\Optimizer.exe.config
+C:\Users\rohas\Videos\Хлам 2.0\шлак.универ\Проги\Разное\Optimizer\Optimizer\bin\Debug\Optimizer.exe
+C:\Users\rohas\Videos\Хлам 2.0\шлак.универ\Проги\Разное\Optimizer\Optimizer\bin\Debug\Optimizer.pdb
+C:\Users\rohas\Videos\Хлам 2.0\шлак.универ\Проги\Разное\Optimizer\Optimizer\obj\Debug\MainWindow.g.cs
+C:\Users\rohas\Videos\Хлам 2.0\шлак.универ\Проги\Разное\Optimizer\Optimizer\obj\Debug\App.g.cs
+C:\Users\rohas\Videos\Хлам 2.0\шлак.универ\Проги\Разное\Optimizer\Optimizer\obj\Debug\Optimizer_MarkupCompile.cache
+C:\Users\rohas\Videos\Хлам 2.0\шлак.универ\Проги\Разное\Optimizer\Optimizer\obj\Debug\Optimizer_MarkupCompile.lref
+C:\Users\rohas\Videos\Хлам 2.0\шлак.универ\Проги\Разное\Optimizer\Optimizer\obj\Debug\MainWindow.baml
+C:\Users\rohas\Videos\Хлам 2.0\шлак.универ\Проги\Разное\Optimizer\Optimizer\obj\Debug\Optimizer.g.resources
+C:\Users\rohas\Videos\Хлам 2.0\шлак.универ\Проги\Разное\Optimizer\Optimizer\obj\Debug\Optimizer.Properties.Resources.resources
+C:\Users\rohas\Videos\Хлам 2.0\шлак.универ\Проги\Разное\Optimizer\Optimizer\obj\Debug\Optimizer.csproj.GenerateResource.Cache
+C:\Users\rohas\Videos\Хлам 2.0\шлак.универ\Проги\Разное\Optimizer\Optimizer\obj\Debug\Optimizer.exe
+C:\Users\rohas\Videos\Хлам 2.0\шлак.универ\Проги\Разное\Optimizer\Optimizer\obj\Debug\Optimizer.pdb
+C:\Users\rohas\Videos\Хлам 2.0\шлак.универ\Проги\Разное\Optimizer\Optimizer\obj\Debug\Optimizer.Resource1.resources
